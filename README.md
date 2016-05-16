@@ -1,4 +1,4 @@
-# object-equal
+# js-object-equal
 
 ##Introduction
 A convinience extension to test equalitity of javascript objects and arrays.
