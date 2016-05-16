@@ -1,5 +1,7 @@
 # js-object-equal
 
+![](https://img.shields.io/badge/npm-1.0.0-green.svg)
+
 ##Introduction
 A convinience extension to test equalitity of javascript objects and arrays.
 It's just a simple convenience method to check if an object it's equal to another.
