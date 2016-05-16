@@ -21,3 +21,9 @@ console.log('equals = ' + a.equals(b, true)); //equals = false
 
 ```
 
+##Usage 
+In your file package.json and the js-object-equal@1.0.0 dependence.
+run 
+````
+npm update
+```
